@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋 Welcome to Nithit Sitthirat's Profile</h1>
+![image](https://github.com/user-attachments/assets/51b3174e-f12c-49fa-a93f-fe4adacc4b23)<h1 align="center">Hi 👋 Welcome to Nithit Sitthirat's Profile</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=novemnotes&label=Profile%20views&color=0e75b6&style=flat" alt="novemnotes" /> </p>
-<img align = "right" alt = "Coding" width="350" src="https://i.pinimg.com/originals/eb/33/64/eb3364836900e5d9f854fdaa9e5f4c09.gif"/>
+<img align = "right" alt = "Coding" width="350" src="[https://i.pinimg.com/originals/eb/33/64/eb3364836900e5d9f854fdaa9e5f4c09.gif](https://media.tenor.com/46qIKFxz0_MAAAAM/8bit-city-city-gif.gif)"/>
 
 - 🌱 I’m currently learning **Artificial Intelligence , Algorithm**
 
