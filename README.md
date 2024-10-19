@@ -13,7 +13,7 @@
 <a href="https://fb.com/profile.php?id=100026364111994" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="profile.php?id=100026364111994" height="30" width="40" /></a>
 <a href="https://instagram.com/thisisnithit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisnithit" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/novemnotes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="novemnotes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/novemnotes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="novemnotes" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/thisisnithit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="u/thisisnithit/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
