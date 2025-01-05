@@ -115,7 +115,6 @@
 
 ###
 
-<br clear="both">
-
+<img src="https://github.com/NovemNotes/snake/blob/main/github-snake-dark.svg" alt="Snake animation" />
 
 ###
